@@ -1,1 +1,49 @@
-⌀℀⼀戀椀渀⼀戀愀猀栀਀猀攀琀 ⴀ攀甀漀 瀀椀瀀攀昀愀椀氀਀刀伀伀吀㴀∀␀⠀挀搀 ∀␀⠀搀椀爀渀愀洀攀 ∀␀　∀⤀⼀⸀⸀∀ ☀☀ 瀀眀搀⤀∀਀挀搀 ∀␀刀伀伀吀∀਀਀䄀倀倀㴀∀␀刀伀伀吀⼀戀甀椀氀搀⼀匀琀攀愀洀䤀搀氀攀䴀愀挀⸀愀瀀瀀∀਀椀昀 嬀 ℀ ⴀ搀 ∀␀䄀倀倀∀ 崀㬀 琀栀攀渀਀    攀挀栀漀 ∀㴀㴀㸀 䄀瀀瀀 戀甀渀搀氀攀 渀漀琀 昀漀甀渀搀Ⰰ 戀甀椀氀搀椀渀最 椀琀∀਀    戀愀猀栀 ∀␀刀伀伀吀⼀猀挀爀椀瀀琀猀⼀戀甀椀氀搀ⴀ愀瀀瀀⸀猀栀∀਀昀椀਀਀⌀ 刀攀愀搀 瘀攀爀猀椀漀渀 昀爀漀洀 䤀渀昀漀⸀瀀氀椀猀琀਀嘀䔀刀匀䤀伀一㴀␀⠀⼀甀猀爀⼀氀椀戀攀砀攀挀⼀倀氀椀猀琀䈀甀搀搀礀 ⴀ挀 ∀倀爀椀渀琀 㨀䌀䘀䈀甀渀搀氀攀匀栀漀爀琀嘀攀爀猀椀漀渀匀琀爀椀渀最∀ ∀␀䄀倀倀⼀䌀漀渀琀攀渀琀猀⼀䤀渀昀漀⸀瀀氀椀猀琀∀⤀਀伀唀吀开䐀䤀刀㴀∀␀刀伀伀吀⼀戀甀椀氀搀∀਀䐀䴀䜀开倀䄀吀䠀㴀∀␀伀唀吀开䐀䤀刀⼀匀琀攀愀洀䤀搀氀攀䴀愀挀ⴀ␀笀嘀䔀刀匀䤀伀一紀⸀搀洀最∀਀洀欀搀椀爀 ⴀ瀀 ∀␀伀唀吀开䐀䤀刀∀਀爀洀 ⴀ昀 ∀␀䐀䴀䜀开倀䄀吀䠀∀਀਀椀昀 ℀ 挀漀洀洀愀渀搀 ⴀ瘀 挀爀攀愀琀攀ⴀ搀洀最 㸀⼀搀攀瘀⼀渀甀氀氀 ㈀㸀☀㄀㬀 琀栀攀渀਀    攀挀栀漀 ∀㴀㴀㸀 䤀渀猀琀愀氀氀椀渀最 挀爀攀愀琀攀ⴀ搀洀最 瘀椀愀 䠀漀洀攀戀爀攀眀∀਀    椀昀 挀漀洀洀愀渀搀 ⴀ瘀 戀爀攀眀 㸀⼀搀攀瘀⼀渀甀氀氀 ㈀㸀☀㄀㬀 琀栀攀渀਀        戀爀攀眀 椀渀猀琀愀氀氀 挀爀攀愀琀攀ⴀ搀洀最਀    攀氀猀攀਀        攀挀栀漀 ∀䔀爀爀漀爀㨀 䠀漀洀攀戀爀攀眀 椀猀 爀攀焀甀椀爀攀搀 琀漀 椀渀猀琀愀氀氀 挀爀攀愀琀攀ⴀ搀洀最⸀ 䤀渀猀琀愀氀氀 戀爀攀眀 昀椀爀猀琀⸀∀਀        攀砀椀琀 ㄀਀    昀椀਀昀椀਀਀⌀ 伀瀀琀椀漀渀愀氀 䐀䴀䜀 戀愀挀欀最爀漀甀渀搀਀䈀䜀开倀一䜀㴀∀␀刀伀伀吀⼀猀挀爀椀瀀琀猀⼀搀洀最ⴀ戀愀挀欀最爀漀甀渀搀⸀瀀渀最∀਀椀昀 嬀 ℀ ⴀ昀 ∀␀䈀䜀开倀一䜀∀ 崀㬀 琀栀攀渀਀    攀挀栀漀 ∀㴀㴀㸀 䜀攀渀攀爀愀琀椀渀最 䐀䴀䜀 戀愀挀欀最爀漀甀渀搀∀਀    猀眀椀昀琀 ∀␀刀伀伀吀⼀猀挀爀椀瀀琀猀⼀最攀渀攀爀愀琀攀ⴀ搀洀最ⴀ戀愀挀欀最爀漀甀渀搀⸀猀眀椀昀琀∀ ∀␀䈀䜀开倀一䜀∀ 簀簀 琀爀甀攀਀昀椀਀਀䔀堀吀刀䄀开䄀刀䜀匀㴀⠀⤀਀椀昀 嬀 ⴀ昀 ∀␀䈀䜀开倀一䜀∀ 崀㬀 琀栀攀渀਀    䔀堀吀刀䄀开䄀刀䜀匀⬀㴀⠀ⴀⴀ戀愀挀欀最爀漀甀渀搀 ∀␀䈀䜀开倀一䜀∀⤀਀昀椀਀਀挀爀攀愀琀攀ⴀ搀洀最 尀਀    ⴀⴀ瘀漀氀渀愀洀攀 ∀匀琀攀愀洀 䤀搀氀攀 䴀愀挀 ␀笀嘀䔀刀匀䤀伀一紀∀ 尀਀    ⴀⴀ眀椀渀搀漀眀ⴀ瀀漀猀 ㈀　　 ㄀㈀　 尀਀    ⴀⴀ眀椀渀搀漀眀ⴀ猀椀稀攀 㘀㐀　 㐀　　 尀਀    ⴀⴀ椀挀漀渀ⴀ猀椀稀攀 ㄀㈀㠀 尀਀    ⴀⴀ椀挀漀渀 ∀匀琀攀愀洀䤀搀氀攀䴀愀挀⸀愀瀀瀀∀ ㄀㘀　 ㈀　　 尀਀    ⴀⴀ愀瀀瀀ⴀ搀爀漀瀀ⴀ氀椀渀欀 㐀㠀　 ㈀　　 尀਀    ⴀⴀ栀椀搀攀ⴀ攀砀琀攀渀猀椀漀渀 ∀匀琀攀愀洀䤀搀氀攀䴀愀挀⸀愀瀀瀀∀ 尀਀    ∀␀笀䔀堀吀刀䄀开䄀刀䜀匀嬀䀀崀紀∀ 尀਀    ∀␀䐀䴀䜀开倀䄀吀䠀∀ 尀਀    ∀␀䄀倀倀∀਀਀攀挀栀漀 ∀䈀甀椀氀琀㨀 ␀䐀䴀䜀开倀䄀吀䠀∀਀
+#!/bin/bash
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$ROOT"
+
+APP="$ROOT/build/SteamIdleMac.app"
+if [ ! -d "$APP" ]; then
+    echo "Building app first..."
+    bash "$ROOT/scripts/build-app.sh"
+fi
+
+VERSION=$(/usr/libexec/PlistBuddy -c "Print :CFBundleShortVersionString" "$APP/Contents/Info.plist")
+OUT_DIR="$ROOT/build"
+DMG_PATH="$OUT_DIR/SteamIdleMac-${VERSION}.dmg"
+mkdir -p "$OUT_DIR"
+rm -f "$DMG_PATH"
+
+if ! command -v create-dmg >/dev/null 2>&1; then
+    echo "Installing create-dmg..."
+    if command -v brew >/dev/null 2>&1; then
+        brew install create-dmg
+    else
+        echo "create-dmg not found. Install from: https://github.com/create-dmg/create-dmg"
+        exit 1
+    fi
+fi
+
+BG_PNG="$ROOT/scripts/dmg-background.png"
+if [ ! -f "$BG_PNG" ]; then
+    swift "$ROOT/scripts/generate-dmg-background.swift" "$BG_PNG" 2>/dev/null || true
+fi
+
+EXTRA=()
+[ -f "$BG_PNG" ] && EXTRA+=(--background "$BG_PNG")
+
+create-dmg \
+    --volname "Steam Idle Mac ${VERSION}" \
+    --window-pos 200 120 \
+    --window-size 640 400 \
+    --icon-size 128 \
+    --icon "SteamIdleMac.app" 160 200 \
+    --app-drop-link 480 200 \
+    --hide-extension "SteamIdleMac.app" \
+    "${EXTRA[@]}" \
+    "$DMG_PATH" \
+    "$APP"
+
+echo "Built: $DMG_PATH"

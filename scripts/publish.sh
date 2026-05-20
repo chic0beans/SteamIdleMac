@@ -1,1 +1,89 @@
-⌀℀⼀戀椀渀⼀戀愀猀栀਀⌀ 䈀甀椀氀搀 ⬀ 甀瀀氀漀愀搀 愀 爀攀氀攀愀猀攀 琀漀 䜀椀琀䠀甀戀⸀ 唀猀愀最攀㨀 戀愀猀栀 猀挀爀椀瀀琀猀⼀瀀甀戀氀椀猀栀⸀猀栀 嬀瘀攀爀猀椀漀渀崀਀⌀ 䔀砀愀洀瀀氀攀㨀 戀愀猀栀 猀挀爀椀瀀琀猀⼀瀀甀戀氀椀猀栀⸀猀栀 ㄀⸀　⸀㔀਀猀攀琀 ⴀ攀甀漀 瀀椀瀀攀昀愀椀氀਀刀伀伀吀㴀∀␀⠀挀搀 ∀␀⠀搀椀爀渀愀洀攀 ∀␀　∀⤀⼀⸀⸀∀ ☀☀ 瀀眀搀⤀∀਀挀搀 ∀␀刀伀伀吀∀਀猀漀甀爀挀攀 ∀␀刀伀伀吀⼀猀挀爀椀瀀琀猀⼀最椀琀栀甀戀ⴀ挀漀渀昀椀最⸀猀栀∀਀਀嘀䔀刀匀䤀伀一㴀∀␀笀㄀㨀ⴀ㄀⸀　⸀㐀紀∀਀਀椀昀 ℀ 挀漀洀洀愀渀搀 ⴀ瘀 最栀 㸀⼀搀攀瘀⼀渀甀氀氀 ㈀㸀☀㄀㬀 琀栀攀渀਀    攀挀栀漀 ∀刀甀渀 猀攀琀甀瀀 昀椀爀猀琀㨀  戀愀猀栀 猀挀爀椀瀀琀猀⼀猀攀琀甀瀀ⴀ最椀琀栀甀戀⸀猀栀∀਀    攀砀椀琀 ㄀਀昀椀਀਀椀昀 ℀ 最栀 愀甀琀栀 猀琀愀琀甀猀 㸀⼀搀攀瘀⼀渀甀氀氀 ㈀㸀☀㄀㬀 琀栀攀渀਀    攀挀栀漀 ∀一漀琀 氀漀最最攀搀 椀渀⸀ 刀甀渀㨀  最栀 愀甀琀栀 氀漀最椀渀∀਀    攀砀椀琀 ㄀਀昀椀਀਀⌀ 䰀漀愀搀 匀瀀愀爀欀氀攀 瀀甀戀氀椀挀 欀攀礀 椀昀 礀漀甀 猀攀琀 椀琀 甀瀀 ⠀漀瀀琀椀漀渀愀氀⤀਀椀昀 嬀 ⴀ昀 ∀␀䠀伀䴀䔀⼀⸀猀瀀愀爀欀氀攀⼀攀搀搀猀愀开瀀甀戀∀ 崀㬀 琀栀攀渀਀    攀砀瀀漀爀琀 匀唀开倀唀䈀䰀䤀䌀开䔀䐀开䬀䔀夀㴀∀␀⠀挀愀琀 ∀␀䠀伀䴀䔀⼀⸀猀瀀愀爀欀氀攀⼀攀搀搀猀愀开瀀甀戀∀⤀∀਀昀椀਀椀昀 嬀 ⴀ昀 ∀␀䠀伀䴀䔀⼀⸀猀瀀愀爀欀氀攀⼀攀搀搀猀愀开瀀爀椀瘀∀ 崀㬀 琀栀攀渀਀    攀砀瀀漀爀琀 匀倀䄀刀䬀䰀䔀开倀刀䤀嘀䄀吀䔀开䬀䔀夀㴀∀␀⠀挀愀琀 ∀␀䠀伀䴀䔀⼀⸀猀瀀愀爀欀氀攀⼀攀搀搀猀愀开瀀爀椀瘀∀⤀∀਀昀椀਀਀攀砀瀀漀爀琀 匀唀开䘀䔀䔀䐀开唀刀䰀਀攀砀瀀漀爀琀 匀䤀䴀开嘀䔀刀匀䤀伀一㴀∀␀嘀䔀刀匀䤀伀一∀਀攀砀瀀漀爀琀 匀䤀䴀开䈀唀䤀䰀䐀㴀∀␀⠀搀愀琀攀 ⬀─猀⤀∀਀਀攀挀栀漀 ∀∀਀攀挀栀漀 ∀㴀㴀㴀 倀甀戀氀椀猀栀椀渀最 匀琀攀愀洀 䤀搀氀攀 䴀愀挀 瘀␀笀嘀䔀刀匀䤀伀一紀 㴀㴀㴀∀਀攀挀栀漀 ∀∀਀਀⌀ 䈀甀椀氀搀 愀瀀瀀 ⬀ 䐀䴀䜀਀戀愀猀栀 ∀␀刀伀伀吀⼀猀挀爀椀瀀琀猀⼀戀甀椀氀搀ⴀ愀瀀瀀⸀猀栀∀਀戀愀猀栀 ∀␀刀伀伀吀⼀猀挀爀椀瀀琀猀⼀洀愀欀攀ⴀ搀洀最⸀猀栀∀਀਀䐀䴀䜀开嘀䔀刀匀䤀伀一䔀䐀㴀∀␀刀伀伀吀⼀戀甀椀氀搀⼀匀琀攀愀洀䤀搀氀攀䴀愀挀ⴀ␀笀嘀䔀刀匀䤀伀一紀⸀搀洀最∀਀䐀䴀䜀开䰀䄀吀䔀匀吀㴀∀␀刀伀伀吀⼀戀甀椀氀搀⼀匀琀攀愀洀䤀搀氀攀䴀愀挀⸀搀洀最∀਀਀椀昀 嬀 ℀ ⴀ昀 ∀␀䐀䴀䜀开嘀䔀刀匀䤀伀一䔀䐀∀ 崀㬀 琀栀攀渀਀    攀挀栀漀 ∀䔀爀爀漀爀㨀 䐀䴀䜀 渀漀琀 昀漀甀渀搀 愀琀 ␀䐀䴀䜀开嘀䔀刀匀䤀伀一䔀䐀∀਀    攀砀椀琀 ㄀਀昀椀਀਀⌀ 䄀氀猀漀 挀漀瀀礀 眀椀琀栀 愀 猀琀愀戀氀攀 渀愀洀攀 猀漀 ∀氀愀琀攀猀琀 搀漀眀渀氀漀愀搀∀ 氀椀渀欀 愀氀眀愀礀猀 眀漀爀欀猀਀挀瀀 ∀␀䐀䴀䜀开嘀䔀刀匀䤀伀一䔀䐀∀ ∀␀䐀䴀䜀开䰀䄀吀䔀匀吀∀਀਀⌀ 伀瀀琀椀漀渀愀氀 匀瀀愀爀欀氀攀 愀瀀瀀挀愀猀琀 ⠀漀渀氀礀 椀昀 瀀爀椀瘀愀琀攀 欀攀礀 攀砀椀猀琀猀⤀਀䄀倀倀䌀䄀匀吀㴀∀∀਀椀昀 嬀 ⴀ渀 ∀␀笀匀倀䄀刀䬀䰀䔀开倀刀䤀嘀䄀吀䔀开䬀䔀夀㨀ⴀ紀∀ 崀㬀 琀栀攀渀਀    唀倀䐀䄀吀䔀匀开䐀䤀刀㴀∀␀刀伀伀吀⼀戀甀椀氀搀⼀甀瀀搀愀琀攀猀∀਀    洀欀搀椀爀 ⴀ瀀 ∀␀唀倀䐀䄀吀䔀匀开䐀䤀刀∀਀    挀瀀 ∀␀䐀䴀䜀开嘀䔀刀匀䤀伀一䔀䐀∀ ∀␀唀倀䐀䄀吀䔀匀开䐀䤀刀⼀∀਀    䜀䔀一开吀伀伀䰀㴀␀⠀昀椀渀搀 ∀␀刀伀伀吀⼀⸀戀甀椀氀搀∀ ⴀ琀礀瀀攀 昀 ⴀ渀愀洀攀 最攀渀攀爀愀琀攀开愀瀀瀀挀愀猀琀 ㈀㸀⼀搀攀瘀⼀渀甀氀氀 簀 栀攀愀搀 ⴀ㄀⤀਀    椀昀 嬀 ⴀ渀 ∀␀䜀䔀一开吀伀伀䰀∀ 崀 ☀☀ 嬀 ⴀ砀 ∀␀䜀䔀一开吀伀伀䰀∀ 崀㬀 琀栀攀渀਀        ∀␀䜀䔀一开吀伀伀䰀∀ ⴀⴀ瀀爀椀瘀愀琀攀ⴀ攀搀搀猀愀ⴀ欀攀礀 ∀␀匀倀䄀刀䬀䰀䔀开倀刀䤀嘀䄀吀䔀开䬀䔀夀∀ ∀␀唀倀䐀䄀吀䔀匀开䐀䤀刀∀ ㈀㸀⼀搀攀瘀⼀渀甀氀氀 簀簀 琀爀甀攀਀        椀昀 嬀 ⴀ昀 ∀␀唀倀䐀䄀吀䔀匀开䐀䤀刀⼀愀瀀瀀挀愀猀琀⸀砀洀氀∀ 崀㬀 琀栀攀渀਀            䄀倀倀䌀䄀匀吀㴀∀␀唀倀䐀䄀吀䔀匀开䐀䤀刀⼀愀瀀瀀挀愀猀琀⸀砀洀氀∀਀        昀椀਀    昀椀਀昀椀਀਀⌀ 唀瀀氀漀愀搀 琀漀 䜀椀琀䠀甀戀਀吀䄀䜀㴀∀瘀␀笀嘀䔀刀匀䤀伀一紀∀਀椀昀 最栀 爀攀氀攀愀猀攀 瘀椀攀眀 ∀␀吀䄀䜀∀ 㸀⼀搀攀瘀⼀渀甀氀氀 ㈀㸀☀㄀㬀 琀栀攀渀਀    攀挀栀漀 ∀刀攀氀攀愀猀攀 ␀吀䄀䜀 愀氀爀攀愀搀礀 攀砀椀猀琀猀 ᐠ 甀瀀氀漀愀搀椀渀最 渀攀眀 昀椀氀攀猀⸀⸀⸀∀਀    最栀 爀攀氀攀愀猀攀 甀瀀氀漀愀搀 ∀␀吀䄀䜀∀ ∀␀䐀䴀䜀开嘀䔀刀匀䤀伀一䔀䐀∀ ∀␀䐀䴀䜀开䰀䄀吀䔀匀吀∀ ⴀⴀ挀氀漀戀戀攀爀਀    嬀 ⴀ渀 ∀␀䄀倀倀䌀䄀匀吀∀ 崀 ☀☀ 最栀 爀攀氀攀愀猀攀 甀瀀氀漀愀搀 ∀␀吀䄀䜀∀ ∀␀䄀倀倀䌀䄀匀吀∀ ⴀⴀ挀氀漀戀戀攀爀਀攀氀猀攀਀    唀倀䰀伀䄀䐀开䘀䤀䰀䔀匀㴀⠀∀␀䐀䴀䜀开嘀䔀刀匀䤀伀一䔀䐀∀ ∀␀䐀䴀䜀开䰀䄀吀䔀匀吀∀⤀਀    嬀 ⴀ渀 ∀␀䄀倀倀䌀䄀匀吀∀ 崀 ☀☀ 唀倀䰀伀䄀䐀开䘀䤀䰀䔀匀⬀㴀⠀∀␀䄀倀倀䌀䄀匀吀∀⤀਀    最栀 爀攀氀攀愀猀攀 挀爀攀愀琀攀 ∀␀吀䄀䜀∀ 尀਀        ⴀⴀ琀椀琀氀攀 ∀匀琀攀愀洀 䤀搀氀攀 䴀愀挀 ␀笀嘀䔀刀匀䤀伀一紀∀ 尀਀        ⴀⴀ渀漀琀攀猀 ∀䐀漀眀渀氀漀愀搀 ⨀⨀匀琀攀愀洀䤀搀氀攀䴀愀挀⸀搀洀最⨀⨀Ⰰ 漀瀀攀渀 椀琀Ⰰ 搀爀愀最 琀栀攀 愀瀀瀀 琀漀 䄀瀀瀀氀椀挀愀琀椀漀渀猀⸀਀਀䘀椀爀猀琀 氀愀甀渀挀栀㨀 爀椀最栀琀ⴀ挀氀椀挀欀 琀栀攀 愀瀀瀀 붿 伀瀀攀渀⸀∀ 尀਀        ∀␀笀唀倀䰀伀䄀䐀开䘀䤀䰀䔀匀嬀䀀崀紀∀਀昀椀਀਀攀挀栀漀 ∀∀਀攀挀栀漀 ∀倀甀戀氀椀猀栀攀搀℀∀਀攀挀栀漀 ∀∀਀攀挀栀漀 ∀  匀攀渀搀 瀀攀漀瀀氀攀 栀攀爀攀㨀  ␀笀䜀䤀吀䠀唀䈀开刀䔀䰀䔀䄀匀䔀匀开唀刀䰀紀∀਀攀挀栀漀 ∀  䐀椀爀攀挀琀 搀漀眀渀氀漀愀搀㨀   ␀笀䜀䤀吀䠀唀䈀开䰀䄀吀䔀匀吀开䐀䴀䜀开唀刀䰀紀∀਀攀挀栀漀 ∀∀਀
+#!/bin/bash
+# Build and upload a release to GitHub.
+# Usage: bash scripts/publish.sh
+#        bash scripts/publish.sh 1.0.5
+set -euo pipefail
+
+export PATH="$HOME/bin:/opt/homebrew/bin:/usr/local/bin:$PATH"
+
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$ROOT"
+
+GITHUB_USER="chic0beans"
+GITHUB_REPO="SteamIdleMac"
+GITHUB_RELEASES_URL="https://github.com/${GITHUB_USER}/${GITHUB_REPO}/releases"
+GITHUB_LATEST_DMG_URL="https://github.com/${GITHUB_USER}/${GITHUB_REPO}/releases/latest/download/SteamIdleMac.dmg"
+SU_FEED_URL="https://github.com/${GITHUB_USER}/${GITHUB_REPO}/releases/latest/download/appcast.xml"
+
+VERSION="${1:-1.0.4}"
+
+if ! command -v gh >/dev/null 2>&1; then
+    echo "Run first: bash scripts/install-tools.sh"
+    echo "Then:      gh auth login"
+    exit 1
+fi
+
+if ! gh auth status >/dev/null 2>&1; then
+    echo "Not logged in. Run: gh auth login"
+    exit 1
+fi
+
+if [ -f "$HOME/.sparkle/eddsa_pub" ]; then
+    export SU_PUBLIC_ED_KEY="$(cat "$HOME/.sparkle/eddsa_pub")"
+fi
+if [ -f "$HOME/.sparkle/eddsa_priv" ]; then
+    export SPARKLE_PRIVATE_KEY="$(cat "$HOME/.sparkle/eddsa_priv")"
+fi
+
+export SU_FEED_URL
+export SIM_VERSION="$VERSION"
+export SIM_BUILD="$(date +%s)"
+
+echo ""
+echo "=== Publishing Steam Idle Mac v${VERSION} ==="
+echo ""
+
+bash "$ROOT/scripts/build-app.sh"
+bash "$ROOT/scripts/make-dmg.sh"
+
+DMG_VERSIONED="$ROOT/build/SteamIdleMac-${VERSION}.dmg"
+DMG_LATEST="$ROOT/build/SteamIdleMac.dmg"
+
+if [ ! -f "$DMG_VERSIONED" ]; then
+    echo "Error: DMG not found at $DMG_VERSIONED"
+    exit 1
+fi
+
+cp "$DMG_VERSIONED" "$DMG_LATEST"
+
+APPCAST=""
+if [ -n "${SPARKLE_PRIVATE_KEY:-}" ]; then
+    UPDATES_DIR="$ROOT/build/updates"
+    mkdir -p "$UPDATES_DIR"
+    cp "$DMG_VERSIONED" "$UPDATES_DIR/"
+    GEN_TOOL=$(find "$ROOT/.build" -type f -name generate_appcast 2>/dev/null | head -1)
+    if [ -n "$GEN_TOOL" ] && [ -x "$GEN_TOOL" ]; then
+        "$GEN_TOOL" --private-eddsa-key "$SPARKLE_PRIVATE_KEY" "$UPDATES_DIR" 2>/dev/null || true
+        [ -f "$UPDATES_DIR/appcast.xml" ] && APPCAST="$UPDATES_DIR/appcast.xml"
+    fi
+fi
+
+TAG="v${VERSION}"
+if gh release view "$TAG" >/dev/null 2>&1; then
+    echo "Release $TAG exists — updating files..."
+    gh release upload "$TAG" "$DMG_VERSIONED" "$DMG_LATEST" --clobber
+    [ -n "$APPCAST" ] && gh release upload "$TAG" "$APPCAST" --clobber
+else
+    FILES=("$DMG_VERSIONED" "$DMG_LATEST")
+    [ -n "$APPCAST" ] && FILES+=("$APPCAST")
+    gh release create "$TAG" \
+        --title "Steam Idle Mac ${VERSION}" \
+        --notes "Download SteamIdleMac.dmg, open it, drag the app to Applications. First launch: right-click -> Open." \
+        "${FILES[@]}"
+fi
+
+echo ""
+echo "Published!"
+echo "  Share:    ${GITHUB_RELEASES_URL}"
+echo "  Download: ${GITHUB_LATEST_DMG_URL}"
+echo ""

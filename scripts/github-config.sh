@@ -1,10 +1,6 @@
-# Your GitHub settings (edit here if anything changes)
+# GitHub settings for chic0beans
 GITHUB_USER="chic0beans"
 GITHUB_REPO="SteamIdleMac"
-
-# Link people use to download the latest DMG
-GITHUB_RELEASES_URL="https://github.com/${GITHUB_USER}/${GITHUB_REPO}/releases"
-GITHUB_LATEST_DMG_URL="https://github.com/${GITHUB_USER}/${GITHUB_REPO}/releases/latest/download/SteamIdleMac.dmg"
-
-# Sparkle auto-update feed (appcast.xml on each release)
-SU_FEED_URL="https://github.com/${GITHUB_USER}/${GITHUB_REPO}/releases/latest/download/appcast.xml"
+GITHUB_RELEASES_URL="https://github.com/chic0beans/SteamIdleMac/releases"
+GITHUB_LATEST_DMG_URL="https://github.com/chic0beans/SteamIdleMac/releases/latest/download/SteamIdleMac.dmg"
+SU_FEED_URL="https://github.com/chic0beans/SteamIdleMac/releases/latest/download/appcast.xml"
