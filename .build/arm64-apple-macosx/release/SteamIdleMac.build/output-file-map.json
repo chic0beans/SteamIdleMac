@@ -1,0 +1,121 @@
+{
+  "": {
+    "dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMac.d",
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMac.o",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/primary.swiftdeps"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/AppState.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/AppState.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/AppState.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/AppState.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/SteamIdleMacApp.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMacApp.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMacApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMacApp.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMacApp.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/BannerStyle.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/BannerStyle.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/BannerStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/BannerStyle.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/BannerStyle.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/Game.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/Game.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/Game~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/Game.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/Game.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/GameSortOrder.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameSortOrder.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameSortOrder~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameSortOrder.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameSortOrder.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/IdleProcessManager.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleProcessManager.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleProcessManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleProcessManager.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleProcessManager.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/KeychainService.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/KeychainService.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/KeychainService~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/KeychainService.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/KeychainService.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SparkleUpdaterController.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SparkleUpdaterController.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SparkleUpdaterController~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SparkleUpdaterController.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SparkleUpdaterController.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamLibraryService.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamLibraryService.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamLibraryService~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamLibraryService.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamLibraryService.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamPathService.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamPathService.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamPathService~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamPathService.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamPathService.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamRunningService.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamRunningService.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamRunningService~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamRunningService.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamRunningService.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/ContentView.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/ContentView.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/ContentView.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/GameLibraryView.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameLibraryView.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameLibraryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameLibraryView.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameLibraryView.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/IdleBannerWindowController.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleBannerWindowController.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleBannerWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleBannerWindowController.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleBannerWindowController.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/MenuBarDashboard.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/MenuBarDashboard.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/MenuBarDashboard~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/MenuBarDashboard.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/MenuBarDashboard.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/OnboardingView.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/OnboardingView.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/OnboardingView.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/OnboardingView.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SettingsView.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SettingsView.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SetupView.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SetupView.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SetupView~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SetupView.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SetupView.dia"
+  },
+  "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/resource_bundle_accessor.dia"
+  }
+}

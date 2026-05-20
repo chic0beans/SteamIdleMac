@@ -1,0 +1,612 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/Sparkle.framework" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64/Sparkle.framework"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/Sparkle.framework"
+        }
+      ]
+    },
+    "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac_SteamIdleMac.bundle/AppIcon.icns" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Resources/AppIcon.icns"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac_SteamIdleMac.bundle/AppIcon.icns"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.SteamIdleMac-arm64-apple-macosx-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/sources",
+      "importPath" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/SteamIdleMacApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/BannerStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/Game.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/GameSortOrder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/IdleProcessManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/KeychainService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SparkleUpdaterController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamLibraryService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamPathService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamRunningService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/GameLibraryView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/IdleBannerWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/MenuBarDashboard.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/OnboardingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<SteamIdleMac-arm64-apple-macosx-release.module-resources>"
+        },
+        {
+          "kind" : "directory",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/Sparkle.framework"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "SteamIdleMac",
+      "moduleOutputPath" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/Modules/SteamIdleMac.swiftmodule",
+      "objects" : [
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/AppState.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMacApp.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/BannerStyle.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/Game.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameSortOrder.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleProcessManager.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/KeychainService.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SparkleUpdaterController.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamLibraryService.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamPathService.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamRunningService.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/ContentView.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameLibraryView.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleBannerWindowController.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/MenuBarDashboard.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/OnboardingView.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SettingsView.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SetupView.swift.o",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "10",
+        "-serialize-diagnostics",
+        "-O",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-I",
+        "/Users/george/Documents/SteamIdleMac/.build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/george/Documents/SteamIdleMac/.build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+        "-module-cache-path",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "SteamIdleMac_main",
+        "-F",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "steamidlemac"
+      ],
+      "outputFileMapPath" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/AppState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMacApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/BannerStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/Game.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameSortOrder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleProcessManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/KeychainService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SparkleUpdaterController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamLibraryService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamPathService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamRunningService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameLibraryView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleBannerWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/MenuBarDashboard.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/OnboardingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SetupView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/Modules/SteamIdleMac.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/AppState.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/SteamIdleMacApp.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/BannerStyle.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/Game.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/GameSortOrder.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/IdleProcessManager.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/KeychainService.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SparkleUpdaterController.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamLibraryService.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamPathService.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamRunningService.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/ContentView.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/GameLibraryView.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/IdleBannerWindowController.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/MenuBarDashboard.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/OnboardingView.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SettingsView.swift",
+        "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SetupView.swift",
+        "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "SteamIdleMac" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "SteamIdleMac",
+      "-package-name",
+      "steamidlemac",
+      "-c",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/AppState.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/SteamIdleMacApp.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/BannerStyle.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/Game.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/GameSortOrder.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/IdleProcessManager.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/KeychainService.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SparkleUpdaterController.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamLibraryService.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamPathService.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamRunningService.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/ContentView.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/GameLibraryView.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/IdleBannerWindowController.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/MenuBarDashboard.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/OnboardingView.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SettingsView.swift",
+      "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SetupView.swift",
+      "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-serialize-diagnostics",
+      "-O",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-I",
+      "/Users/george/Documents/SteamIdleMac/.build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/george/Documents/SteamIdleMac/.build/artifacts/sparkle/Sparkle/Sparkle.xcframework/macos-arm64_x86_64",
+      "-module-cache-path",
+      "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "SteamIdleMac_main",
+      "-F",
+      "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "steamidlemac",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "SteamIdleMac" : [
+      "Sparkle"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/App/SteamIdleMacApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/BannerStyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/Game.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Models/GameSortOrder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/IdleProcessManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/KeychainService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SparkleUpdaterController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamLibraryService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamPathService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Services/SteamRunningService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/GameLibraryView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/IdleBannerWindowController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/MenuBarDashboard.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/OnboardingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/SteamIdleMac/Views/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/sources"
+    },
+    "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/AppState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/BannerStyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/Game.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameLibraryView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/GameSortOrder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleBannerWindowController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/IdleProcessManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/KeychainService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/MenuBarDashboard.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/OnboardingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SetupView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SparkleUpdaterController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamIdleMacApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamLibraryService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamPathService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/SteamRunningService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.build/resource_bundle_accessor.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/SteamIdleMac.product/Objects.LinkFileList"
+    },
+    "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/george/Documents/SteamIdleMac/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

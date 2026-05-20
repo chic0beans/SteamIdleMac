@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key><string>SteamIdleMac</string>
+	<key>CFBundleIdentifier</key><string>com.steamidlemac.app</string>
+	<key>CFBundleName</key><string>Steam Idle Mac</string>
+	<key>CFBundleDisplayName</key><string>Steam Idle Mac</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleShortVersionString</key><string>1.0.4</string>
+	<key>CFBundleVersion</key><string>5</string>
+	<key>CFBundleIconFile</key><string>AppIcon</string>
+	<key>LSMinimumSystemVersion</key><string>13.0</string>
+	<key>NSHighResolutionCapable</key><true/>
+	<key>NSPrincipalClass</key><string>NSApplication</string>
+	<key>SUFeedURL</key><string>https://github.com/your-user/SteamIdleMac/releases/download/latest/appcast.xml</string>
+	
+	<key>SUEnableInstallerLauncherService</key><true/>
+	<key>SUEnableAutomaticChecks</key><true/>
+</dict>
+</plist>
