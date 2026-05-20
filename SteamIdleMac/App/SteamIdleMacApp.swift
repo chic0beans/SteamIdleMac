@@ -18,6 +18,7 @@ struct SteamIdleMacApp: App {
                 .onAppear {
                     appState.bootstrap()
                     AppDelegate.shared?.register(appState: appState)
+                    updater.probeForUpdatesIfNeeded()
                     DispatchQueue.main.async {
                         if let window = NSApp.windows.first(where: { $0.contentView?.subviews.first is NSHostingView<AnyView> || $0.canBecomeMain }) {
                             window.identifier = MainWindowIdentifier.value
@@ -41,7 +42,21 @@ struct SteamIdleMacApp: App {
                 .environmentObject(updater)
         } label: {
             let count = appState.idleManager.activeSessions.count
-            Image(systemName: count > 0 ? "gamecontroller.fill" : "gamecontroller")
+            ZStack(alignment: .topTrailing) {
+                Image(systemName: count > 0 ? "gamecontroller.fill" : "gamecontroller")
+                if updater.isUpdateAvailable {
+                    Circle()
+                        .fill(Color.green)
+                        .frame(width: 8, height: 8)
+                        .overlay(
+                            Circle().stroke(Color.black.opacity(0.25), lineWidth: 0.8)
+                        )
+                        .offset(x: 4, y: -3)
+                        .accessibilityLabel(
+                            updater.availableUpdateDisplayVersion.map { "Update \($0) available" } ?? "Update available"
+                        )
+                }
+            }
         }
         .menuBarExtraStyle(.window)
     }

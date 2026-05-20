@@ -63,6 +63,13 @@ struct MenuBarDashboard: View {
 
     private var footer: some View {
         VStack(spacing: 0) {
+            if updater.isUpdateAvailable {
+                menuButton(
+                    updater.availableUpdateDisplayVersion.map { "Update available (\($0))" } ?? "Update available"
+                ) {
+                    updater.checkForUpdates()
+                }
+            }
             menuButton("Show window") {
                 NSApp.activate(ignoringOtherApps: true)
                 let candidates = NSApp.windows.filter { window in

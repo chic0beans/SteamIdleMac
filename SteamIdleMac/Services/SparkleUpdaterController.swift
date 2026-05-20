@@ -5,14 +5,17 @@ import SwiftUI
 /// Wrapper around SPUStandardUpdaterController. We instantiate it lazily so that startup
 /// doesn't crash when SUFeedURL/SUPublicEDKey have not been configured yet (e.g. ad-hoc dev builds).
 @MainActor
-final class SparkleUpdaterController: ObservableObject {
+final class SparkleUpdaterController: NSObject, ObservableObject, SPUUpdaterDelegate {
     private var _updater: SPUStandardUpdaterController?
+    private var hasProbedForUpdates = false
+    @Published private(set) var isUpdateAvailable = false
+    @Published private(set) var availableUpdateDisplayVersion: String?
 
     private var updater: SPUStandardUpdaterController? {
         if _updater == nil, isConfigured {
             _updater = SPUStandardUpdaterController(
                 startingUpdater: true,
-                updaterDelegate: nil,
+                updaterDelegate: self,
                 userDriverDelegate: nil
             )
         }
@@ -26,6 +29,31 @@ final class SparkleUpdaterController: ObservableObject {
 
     func checkForUpdates() {
         updater?.checkForUpdates(nil)
+    }
+
+    /// Performs a non-intrusive probe so UI can show an "update available" badge.
+    func probeForUpdatesIfNeeded() {
+        guard !hasProbedForUpdates else { return }
+        guard let u = updater else { return }
+        hasProbedForUpdates = true
+        u.updater.checkForUpdateInformation()
+    }
+
+    func updater(_ updater: SPUUpdater, didFindValidUpdate item: SUAppcastItem) {
+        let display = item.displayVersionString.trimmingCharacters(in: .whitespacesAndNewlines)
+        let fallback = item.versionString.trimmingCharacters(in: .whitespacesAndNewlines)
+        availableUpdateDisplayVersion = display.isEmpty ? (fallback.isEmpty ? nil : fallback) : display
+        isUpdateAvailable = true
+    }
+
+    func updaterDidNotFindUpdate(_ updater: SPUUpdater) {
+        isUpdateAvailable = false
+        availableUpdateDisplayVersion = nil
+    }
+
+    func updaterDidNotFindUpdate(_ updater: SPUUpdater, error: Error) {
+        isUpdateAvailable = false
+        availableUpdateDisplayVersion = nil
     }
 
     private var isConfigured: Bool {
